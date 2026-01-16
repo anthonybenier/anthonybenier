@@ -7,8 +7,11 @@ Hey ! <br>I'm a Product Owner / Designer<br>I went from IT Technician to QA Test
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anthony_benier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-benier) 
 
-# 💻 Tech Stack:
-[![My Skills](https://readme-skill-icons-three.vercel.app/api/icons?i=cursor%2Cdocker%2Cnextdotjs&t=light)](https://skillicons.dev)
+## AI Tools that I Use
+[![My Skills](https://readme-skill-icons-three.vercel.app/api/icons?i=googlegemini%2Ccursor)](https://readme-skill-icons-three.vercel.app)
+
+## Stack
+[![My Skills](https://readme-skill-icons-three.vercel.app/api/icons?i=nextdotjs%2Creact%2Cnestjs%2Cdocker%2Cminio)](https://readme-skill-icons-three.vercel.app)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anthonybenier&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
