@@ -1,3 +1,5 @@
+![banner](https://github.com/anthonybenier/anthonybenier/blob/main/assets/images/Connect.png?raw=true)
+
 # 💫 About Me:
 Hey ! <br>I'm a Product Owner / Designer<br>I went from IT Technician to QA Testing to Product Owner / Designer and now I'm also coding with AI
 
