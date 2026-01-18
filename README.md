@@ -3,8 +3,6 @@
 # About Me:
 Hey ! <br>I'm a Product Owner / Designer<br>I went from IT Technician to QA Testing to Product Owner / Designer and now I'm also coding with AI
 
-
-## 🌐 Socials:
 [![ Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthony_benier) [![ linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/anthony-benier)
 
 
