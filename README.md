@@ -5,8 +5,7 @@ Hey ! <br>I'm a Product Owner / Designer<br>I went from IT Technician to QA Test
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anthony_benier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-benier) 
-
+[![ Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anthony_benier) [![ linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/anthony-benier)
 
 
 # Tools and Stack
